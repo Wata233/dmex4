@@ -27,9 +27,9 @@ printf("Heads: %d, Tails: %d", heads, tails);
 
 if(heads>tails){
 
-printf("%s won" str);
+printf("You won");
 } else {
-printf("%s lost" str);
+printf("You lost");
 }
 return 0;
 }
