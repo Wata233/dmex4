@@ -18,5 +18,11 @@ tails++;
 
 printf("Heads: %d, Tails: %d", heads, tails);
 
+if(heads>tails){
+
+printf("%s won" str);
+} else {
+printf("%s lost" str);
+}
 return 0;
 }
